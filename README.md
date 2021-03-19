@@ -8,6 +8,6 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="/home/vladimir/Imagens/projetoinstagram.png" style="zoom:200%;" /> | <img src="/home/vladimir/projeto/workspace/recriando_paginicial_instagram/img/html5-css3.jpg" style="zoom:50%;" /> |
+| <img src="./img/projetofinal.png" style="zoom:200%;" /> | <img src="./img/html5-css3.jpg" style="zoom:50%;" /> |
 
 ​                              
